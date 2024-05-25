@@ -1,0 +1,14 @@
+/* devanagari */
+@font-face {
+	font-family: 'Poppins';
+	src: url('../fonts/GillSans.otf');
+  
+  @font-face {
+	font-family: 'Lato';
+	src: url('../fonts/GillSans.otf');
+  }
+  
+  @font-face {
+	font-family: 'gill';
+	src: url('../fonts/GillSans.otf');
+  }
